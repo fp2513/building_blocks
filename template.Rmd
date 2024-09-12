@@ -3,9 +3,7 @@
 title: "Simple document"
 author: Flora Pang
 date: 2024-09-10
-output:
-  pdf_document: default
-
+output: html_document
 #Key features, stsrucutral information, code want to use
 ---
 Important because if just load tidyverse on console, when you knit the new environment is completely self-contained and won't remember that you had loaded that onto the console. Need to make sure to load the tidyverse
